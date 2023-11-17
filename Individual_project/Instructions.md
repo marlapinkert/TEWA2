@@ -21,4 +21,6 @@ While the first-level analysis remains rather simple, some aspects are new to yo
 
 Please hand-in a notebook (.ipynb file) containing the whole procedure. Also, add some explanations by using text fields. While I added code cells to the notebook with the scaffold, these are only there to help you get an overview over the steps - You can add as many as you want.
 
+Once you download the dataset, you get a folder with the raw data for each subject and a folder called "derivatives" which contains preprocessed functional and anatomical images as well as motion parameters.
+
 You will find additional information in the notebook.
