@@ -19,5 +19,3 @@ Besides basic Python scills the main focus lies on the analysis of MRI data, inc
   <li>Scripting First & Second level analysis
   <li>Visualizing and reporting results
 </ul>
-
-Thank you to @lrsktr for letting me use your teaching materials!
