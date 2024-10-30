@@ -12,10 +12,10 @@ Focus: Reproducable fMRI analysis using Python
 
 
 ## Contents
-Besides basic Python scills the main focus lies on the analysis of MRI data, including the basics of...
+Besides basic Python skills the main focus lies on the analysis of MRI data, including the basics of...
 <ul>
   <li>Understanding what MRI data is and how it represented on our computers
-  <li>Scripting reproducible preprocessing workflows
-  <li>Scripting First & Second level analysis
+  <li>Creating reproducible preprocessing workflows
+  <li>Performing First & Second level analysis
   <li>Visualizing and reporting results
 </ul>
