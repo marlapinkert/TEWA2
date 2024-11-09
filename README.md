@@ -19,4 +19,4 @@ Besides basic Python skills the main focus lies on the analysis of MRI data, inc
   <li>Performing First & Second level analysis
   <li>Visualizing and reporting results
 </ul>
-![schedule](https://github.com/marlapinkert/TEWA2/blob/main/resources/image.png?raw=true)
+[<img src="image.png">](https://github.com/marlapinkert/TEWA2/blob/main/resources)
