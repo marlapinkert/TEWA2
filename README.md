@@ -1,5 +1,5 @@
 # Theory and Empirical Research (TEWA) – Neuroimaging
-Teaching material for the TEWA2 seminar at the Faculty of Psychology, University of Vienna.
+Teaching material for the [TEWA2 seminar at the Faculty of Psychology, University of Vienna](https://ufind.univie.ac.at/en/course.html?lv=200150&semester=2024W).
 
 Focus: Reproducable fMRI analysis using Python
 
