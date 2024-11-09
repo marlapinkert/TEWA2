@@ -19,3 +19,4 @@ Besides basic Python skills the main focus lies on the analysis of MRI data, inc
   <li>Performing First & Second level analysis
   <li>Visualizing and reporting results
 </ul>
+![image](https://github.com/user-attachments/assets/b10272d5-0af7-4120-90d2-e5bbf68c3f80)
